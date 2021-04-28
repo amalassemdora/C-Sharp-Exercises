@@ -1,0 +1,13 @@
+E:\SelfStudy2020&2021\C#\CalculateFactorial\CalculateFactorial\bin\Debug\netcoreapp3.1\CalculateFactorial.exe
+E:\SelfStudy2020&2021\C#\CalculateFactorial\CalculateFactorial\bin\Debug\netcoreapp3.1\CalculateFactorial.deps.json
+E:\SelfStudy2020&2021\C#\CalculateFactorial\CalculateFactorial\bin\Debug\netcoreapp3.1\CalculateFactorial.runtimeconfig.json
+E:\SelfStudy2020&2021\C#\CalculateFactorial\CalculateFactorial\bin\Debug\netcoreapp3.1\CalculateFactorial.runtimeconfig.dev.json
+E:\SelfStudy2020&2021\C#\CalculateFactorial\CalculateFactorial\bin\Debug\netcoreapp3.1\CalculateFactorial.dll
+E:\SelfStudy2020&2021\C#\CalculateFactorial\CalculateFactorial\bin\Debug\netcoreapp3.1\CalculateFactorial.pdb
+E:\SelfStudy2020&2021\C#\CalculateFactorial\CalculateFactorial\obj\Debug\netcoreapp3.1\CalculateFactorial.csprojAssemblyReference.cache
+E:\SelfStudy2020&2021\C#\CalculateFactorial\CalculateFactorial\obj\Debug\netcoreapp3.1\CalculateFactorial.AssemblyInfoInputs.cache
+E:\SelfStudy2020&2021\C#\CalculateFactorial\CalculateFactorial\obj\Debug\netcoreapp3.1\CalculateFactorial.AssemblyInfo.cs
+E:\SelfStudy2020&2021\C#\CalculateFactorial\CalculateFactorial\obj\Debug\netcoreapp3.1\CalculateFactorial.csproj.CoreCompileInputs.cache
+E:\SelfStudy2020&2021\C#\CalculateFactorial\CalculateFactorial\obj\Debug\netcoreapp3.1\CalculateFactorial.dll
+E:\SelfStudy2020&2021\C#\CalculateFactorial\CalculateFactorial\obj\Debug\netcoreapp3.1\CalculateFactorial.pdb
+E:\SelfStudy2020&2021\C#\CalculateFactorial\CalculateFactorial\obj\Debug\netcoreapp3.1\CalculateFactorial.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+E:\ITI\C#\Day-02\Task\Sort_Array\Sort_Array\bin\Debug\netcoreapp3.1\Sort_Array.exe
+E:\ITI\C#\Day-02\Task\Sort_Array\Sort_Array\bin\Debug\netcoreapp3.1\Sort_Array.deps.json
+E:\ITI\C#\Day-02\Task\Sort_Array\Sort_Array\bin\Debug\netcoreapp3.1\Sort_Array.runtimeconfig.json
+E:\ITI\C#\Day-02\Task\Sort_Array\Sort_Array\bin\Debug\netcoreapp3.1\Sort_Array.runtimeconfig.dev.json
+E:\ITI\C#\Day-02\Task\Sort_Array\Sort_Array\bin\Debug\netcoreapp3.1\Sort_Array.dll
+E:\ITI\C#\Day-02\Task\Sort_Array\Sort_Array\bin\Debug\netcoreapp3.1\Sort_Array.pdb
+E:\ITI\C#\Day-02\Task\Sort_Array\Sort_Array\obj\Debug\netcoreapp3.1\Sort_Array.csprojAssemblyReference.cache
+E:\ITI\C#\Day-02\Task\Sort_Array\Sort_Array\obj\Debug\netcoreapp3.1\Sort_Array.AssemblyInfoInputs.cache
+E:\ITI\C#\Day-02\Task\Sort_Array\Sort_Array\obj\Debug\netcoreapp3.1\Sort_Array.AssemblyInfo.cs
+E:\ITI\C#\Day-02\Task\Sort_Array\Sort_Array\obj\Debug\netcoreapp3.1\Sort_Array.csproj.CoreCompileInputs.cache
+E:\ITI\C#\Day-02\Task\Sort_Array\Sort_Array\obj\Debug\netcoreapp3.1\Sort_Array.dll
+E:\ITI\C#\Day-02\Task\Sort_Array\Sort_Array\obj\Debug\netcoreapp3.1\Sort_Array.pdb
+E:\ITI\C#\Day-02\Task\Sort_Array\Sort_Array\obj\Debug\netcoreapp3.1\Sort_Array.genruntimeconfig.cache

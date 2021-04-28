@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConvertingNumbersFromOrdinalToCardinal", "ConvertingNumbersFromOrdinalToCardinal\ConvertingNumbersFromOrdinalToCardinal.csproj", "{775A7791-1450-45F4-BA40-C5FAAF615C4C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{775A7791-1450-45F4-BA40-C5FAAF615C4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{775A7791-1450-45F4-BA40-C5FAAF615C4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{775A7791-1450-45F4-BA40-C5FAAF615C4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{775A7791-1450-45F4-BA40-C5FAAF615C4C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8C1B3F0A-BDD5-41B6-A887-2D6CF39DA549}
+	EndGlobalSection
+EndGlobal

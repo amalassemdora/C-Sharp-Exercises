@@ -1,0 +1,13 @@
+E:\ITI\C#\Day-02\Task\Search_Array\Search_Array\bin\Debug\netcoreapp3.1\Search_Array.exe
+E:\ITI\C#\Day-02\Task\Search_Array\Search_Array\bin\Debug\netcoreapp3.1\Search_Array.deps.json
+E:\ITI\C#\Day-02\Task\Search_Array\Search_Array\bin\Debug\netcoreapp3.1\Search_Array.runtimeconfig.json
+E:\ITI\C#\Day-02\Task\Search_Array\Search_Array\bin\Debug\netcoreapp3.1\Search_Array.runtimeconfig.dev.json
+E:\ITI\C#\Day-02\Task\Search_Array\Search_Array\bin\Debug\netcoreapp3.1\Search_Array.dll
+E:\ITI\C#\Day-02\Task\Search_Array\Search_Array\bin\Debug\netcoreapp3.1\Search_Array.pdb
+E:\ITI\C#\Day-02\Task\Search_Array\Search_Array\obj\Debug\netcoreapp3.1\Search_Array.csprojAssemblyReference.cache
+E:\ITI\C#\Day-02\Task\Search_Array\Search_Array\obj\Debug\netcoreapp3.1\Search_Array.AssemblyInfoInputs.cache
+E:\ITI\C#\Day-02\Task\Search_Array\Search_Array\obj\Debug\netcoreapp3.1\Search_Array.AssemblyInfo.cs
+E:\ITI\C#\Day-02\Task\Search_Array\Search_Array\obj\Debug\netcoreapp3.1\Search_Array.csproj.CoreCompileInputs.cache
+E:\ITI\C#\Day-02\Task\Search_Array\Search_Array\obj\Debug\netcoreapp3.1\Search_Array.dll
+E:\ITI\C#\Day-02\Task\Search_Array\Search_Array\obj\Debug\netcoreapp3.1\Search_Array.pdb
+E:\ITI\C#\Day-02\Task\Search_Array\Search_Array\obj\Debug\netcoreapp3.1\Search_Array.genruntimeconfig.cache
