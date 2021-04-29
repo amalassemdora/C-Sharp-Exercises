@@ -1,0 +1,13 @@
+E:\ITI\C#\day-04\Task\TryInheritance1\TryInheritance1\bin\Debug\netcoreapp3.1\TryInheritance1.exe
+E:\ITI\C#\day-04\Task\TryInheritance1\TryInheritance1\bin\Debug\netcoreapp3.1\TryInheritance1.deps.json
+E:\ITI\C#\day-04\Task\TryInheritance1\TryInheritance1\bin\Debug\netcoreapp3.1\TryInheritance1.runtimeconfig.json
+E:\ITI\C#\day-04\Task\TryInheritance1\TryInheritance1\bin\Debug\netcoreapp3.1\TryInheritance1.runtimeconfig.dev.json
+E:\ITI\C#\day-04\Task\TryInheritance1\TryInheritance1\bin\Debug\netcoreapp3.1\TryInheritance1.dll
+E:\ITI\C#\day-04\Task\TryInheritance1\TryInheritance1\bin\Debug\netcoreapp3.1\TryInheritance1.pdb
+E:\ITI\C#\day-04\Task\TryInheritance1\TryInheritance1\obj\Debug\netcoreapp3.1\TryInheritance1.csprojAssemblyReference.cache
+E:\ITI\C#\day-04\Task\TryInheritance1\TryInheritance1\obj\Debug\netcoreapp3.1\TryInheritance1.AssemblyInfoInputs.cache
+E:\ITI\C#\day-04\Task\TryInheritance1\TryInheritance1\obj\Debug\netcoreapp3.1\TryInheritance1.AssemblyInfo.cs
+E:\ITI\C#\day-04\Task\TryInheritance1\TryInheritance1\obj\Debug\netcoreapp3.1\TryInheritance1.csproj.CoreCompileInputs.cache
+E:\ITI\C#\day-04\Task\TryInheritance1\TryInheritance1\obj\Debug\netcoreapp3.1\TryInheritance1.dll
+E:\ITI\C#\day-04\Task\TryInheritance1\TryInheritance1\obj\Debug\netcoreapp3.1\TryInheritance1.pdb
+E:\ITI\C#\day-04\Task\TryInheritance1\TryInheritance1\obj\Debug\netcoreapp3.1\TryInheritance1.genruntimeconfig.cache
